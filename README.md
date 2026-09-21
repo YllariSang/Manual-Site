@@ -1,46 +1,29 @@
-# Astro Starter Kit: Basics
+# What
+Manual-Site is a personal project to create a website from scratch.
+The goal is to only use manual or traditional conventions of creating, developing, and deploying a website without the assistance of Artificial Intelligence.
 
-```sh
-npm create astro@latest -- --template basics
-```
+# Why
+The purpose of this project is to detoxify my usage of AI.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+# How
+Documentations, Frameworks such as what is being used currently, Hopes and Prayers.
 
-## 🚀 Project Structure
+# When
+I will start this as of the repo's existence and this .md push.
+When I am gonna finish this depends on whether I work on this project or not, it could be indefinite as I could keep adding things here constantly.
 
-Inside of your Astro project, you'll see the following folders and files:
+# Where
+On my computah.
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+# Who
+Me.
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+---
+# Installation
+Currently there is no point to cloning this repo and do the installation but a good documentation is good documentation.
 
-## 🧞 Commands
+''git clone https://github.com/YllariSang/Manual-Site && cd Manual-Site''
+''git pull origin master #Just in case''
+''npm run dev''
 
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Voila, a running local copy.
