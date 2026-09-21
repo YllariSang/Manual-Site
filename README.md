@@ -22,8 +22,8 @@ Me.
 # Installation
 Currently there is no point to cloning this repo and do the installation but a good documentation is good documentation.
 
-''git clone https://github.com/YllariSang/Manual-Site && cd Manual-Site''
-''git pull origin master #Just in case''
-''npm run dev''
+``git clone https://github.com/YllariSang/Manual-Site && cd Manual-Site``
+``git pull origin master #Just in case``
+``npm run dev``
 
 Voila, a running local copy.
