@@ -28,7 +28,10 @@ git clone https://github.com/YllariSang/Manual-Site && cd Manual-Site
 
 ```sh
 git pull origin master #Just in case
+```
 
+```sh
+npm install
 ```
 
 ```sh
